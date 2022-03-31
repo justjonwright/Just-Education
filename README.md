@@ -10,12 +10,12 @@ The goal of **Just Education** is to create an intelligent platform to provide i
 
 ## Hypotheses & Validation
 
--This platform can complement with any schooling (public K12, private college, adult self-learning)
--This platform can get access to important student data (GPA, classes, etc.)
--Students are motivated but directionless
--AI/ML recommendations can help with building student pathways
--No new educational content will need to be made, just direction
--There will be access to tutors who can help build pathways and guide students
+*This platform can complement with any schooling (public K12, private college, adult self-learning)
+*This platform can get access to important student data (GPA, classes, etc.)
+*Students are motivated but directionless
+*AI/ML recommendations can help with building student pathways
+*No new educational content will need to be made, just direction
+*There will be access to tutors who can help build pathways and guide students
 
 ## Current progress
 
