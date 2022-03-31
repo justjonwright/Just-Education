@@ -10,7 +10,7 @@ The goal of **Just Education** is to create an intelligent platform to provide i
 
 ## Current Build
 
-- [Interest survey](./interest-survey)
+- [Interest survey](./github/ISSUE_TEMPLATE/interest-survey)
 
 ## Hypotheses & Validation
 
