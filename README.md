@@ -8,6 +8,10 @@ This repository represents a dream I have for the future of education:
 
 The goal of **Just Education** is to create an intelligent platform to provide individualized pathways of education for users. This platform will be created with a variety of technologies and human capital.
 
+## Current Build
+
+- [Interest survey](./interest-survey)
+
 ## Hypotheses & Validation
 
 - This platform can complement with any schooling (public K12, private college, adult self-learning)
